@@ -1,0 +1,33 @@
+.card__title {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0px 0px 40px 0px;
+    text-transform: uppercase;
+}
+
+.card__title--gray {
+    color: #666666;
+}
+
+.card__title--white {
+    color: #fff;
+    font-weight: 700;
+}
+
+.card__title--green {
+    margin: 0px 0px 15px 0px;
+    color: #2ebd59;
+    text-transform: uppercase;
+}
+
+.card__subtitle {
+    margin: 0px 0px 30px 0px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+}
+
+.subtitle--green {
+    color: #2ebd59;
+    text-transform: uppercase;
+}

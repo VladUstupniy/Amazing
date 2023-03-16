@@ -1,0 +1,21 @@
+.click-to-play {
+    display: flex;
+    justify-content: space-between;
+}
+.click-to-play__decoration {
+    flex: 0 1 400px;
+    background-color: #282b2f;
+}
+.click-to-play__content {
+    flex: 1 1 auto;
+    background-image: url("../img/bg/bg-02.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px 0px 400px 0px;
+}
+.click-to-play__desc {
+    width: 400px;
+    padding: 140px 0px 95px 55px;
+    background-color: #212227;
+}

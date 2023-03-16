@@ -1,0 +1,19 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+.content__row {
+    @media (min-width: 992px) {
+        display: flex;
+    }
+}
